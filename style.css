@@ -1,0 +1,22 @@
+h1{
+    color: goldenrod;
+}
+.sect{
+    color: rgb(2, 3, 39);
+    text-align: center;
+}
+.list{
+    color: blue;
+}
+.title{
+    color: red;
+}
+.button{
+    background-color: blueviolet;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: brown;
+
+}
